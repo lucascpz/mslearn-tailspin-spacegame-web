@@ -9,4 +9,4 @@ variables:
 
 steps:
 - script: dotnet build --configuration ${buildConfiguration}
-  displayName: 'dot net build ${buildConfiguration}'
+  displayName: 'dotnet build ${buildConfiguration}'
